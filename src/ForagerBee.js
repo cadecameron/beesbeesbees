@@ -13,7 +13,7 @@ Create a ForagerBee class, in pseudoclassical style, with:
 //  a treasureChest property that is set to an empty array []
 //  a forage method that allows the bee to add a treasure to the treasureChest
 ------------------------------------------------------------------------
- */
+*/
 
 var ForagerBee = function() {
   Bee.call(this);
